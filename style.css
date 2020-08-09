@@ -1,0 +1,21 @@
+#pantalla{
+	display: flex;
+	align-content: center;
+}
+
+.fila1{
+	display: flex;
+	justify-content: space-around;
+}
+.fila2{
+	display: flex;
+	justify-content: space-around;
+}
+.fila3{
+	display: flex;
+	justify-content: space-around;
+}
+.fila4{
+	display: flex;
+	justify-content: space-around;
+}
